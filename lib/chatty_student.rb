@@ -1,1 +1,1 @@
-class Chatty_student <
+class Chatty_student < user 
